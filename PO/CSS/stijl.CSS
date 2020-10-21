@@ -1,0 +1,72 @@
+h2 {
+    color:black;
+    font-family: sans-serif;
+    font-size: 40px;
+
+}
+#container{
+    background-color: White;
+    width: 1700px;
+    height: 1000px;
+    margin:5%;
+    margin-top: 50px;
+    
+}
+#menu {
+    background-color: Black(255, 0, 0);
+    width: 1700px;
+    height: 5%;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+  
+body {
+    height: 100%;
+    background-color: rgb(204, 204, 206);
+    margin-right: 50px;
+}
+#sticky {
+  position: sticky;
+  top:0;
+  background-color: whitesmoke;
+  padding:0.25 ;
+  font-size: 40px;
+ 
+  text-align: center;
+  margin-left: 2.5%;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+  }
+  li{
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-size: 40px;
+      display: inline;
+      border-bottom: 10px solid darkgrey;
+      background-color: white;
+      padding-right:20px;
+      padding-left:20px;
+
+  }
+ul{
+    padding: 0;
+    background-color:white;
+
+}
+#Knopjes{ 
+    position: sticky;
+    top: 63px;
+    margin-left: 46px;
+}
+a:hover{
+    color:red;
+    background-color:white;
+    text-decoration: White;
+    
+}
+a:active{ 
+    text-decoration:none;
+}
+a:link {
+  text-decoration: none;
+}
